@@ -1,2 +1,9 @@
-<h1 align="center">I'm Julian</h1>
-<img align="center" alt="Tommy Shelby" width="498" height="304" src="https://i.pinimg.com/originals/8c/2d/b4/8c2db4639d72a0061c6257768c7afda9.gif">
+# Hi, I'm Julian 👋
+
+Computer Science student at PJATK (Generative AI specialization), Warsaw.
+Interested in data engineering, backend development and cloud.
+
+**Tech:** Python · SQL (PostgreSQL, MS SQL) · C# / ASP.NET Core · Java · Docker · Linux
+**Currently learning:** Pandas, machine learning (scikit-learn, Keras), BigQuery
+
+📫 julianpawel.suszko@gmail.com · [[LinkedIn]](https://www.linkedin.com/in/julian-suszko/)
