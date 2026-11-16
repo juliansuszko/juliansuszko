@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my engineering thesis in Generative AI<br><br>🌱 I'm currently learning machine learning: scikit-learn, Keras, neural networks, Pandas & NumPy<br><br>💬 Ask me about building AI agents in n8n, ASP.NET Core APIs and deploying with Docker Compose<br><br>⚡ Fun fact: I debug code faster than I pick an outfit
+🔭 I'm currently working on my engineering thesis in Generative AI<br><br>🌱 AI agents in n8n, ASP.NET Core APIs, deep learning
 
 
 ## 🌐 Socials:
